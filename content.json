@@ -1,0 +1,211 @@
+{
+    "color1": "#dcc2ff",
+    "color2": "#e2989f",
+    "color3": "#3d3f4d",
+    "color4": "#c8bff2",
+    "color5": "#e3c4c4",
+    "siteTitle": "Avatar Medicine Forum 2022",
+    "navigation": [
+        {
+            "label": "Introduction",
+            "link": "#intro"
+        },
+        {
+            "label": "Speakers",
+            "link": "#speakers"
+        },
+        {
+            "label": "Agenda",
+            "link": "#agenda"
+        },
+        {
+            "label": "Documents",
+            "link": "#documents"
+        },
+        {
+            "label": "FAQ",
+            "link": "#faq"
+        },
+        {
+            "label": "Register",
+            "link": "#register"
+        }
+    ],
+    "languages": [
+        {
+            "label": "English",
+            "code": "en",
+            "active": true
+        },
+        {
+            "label": "中文",
+            "code": "zh",
+            "active": false
+        }
+    ],
+    "hero": {
+        "title": "Avatar Medicine Forum 2022",
+        "date": "2024/08/05",
+        "ctaButton": {
+            "text": "Register Now",
+            "link": "#register"
+        },
+        "backgroundImage": "./images/web_01_en.png"
+    },
+    "introduction": {
+        "title": "Digital Twin & Metaverse",
+        "content": "The Avatar Medicine Forum promotes the concept of virtual and physical avatars for patient therapy. Let everyone understand that avatar medicine may reduce the risks that patients need to bear during the treatment process, and it can overcome the limitations of distance and time. The advanced technologies include organoids, model organisms, big data, metaverse, etc. The general public can understand from a new perspective that these technologies have the potential to replace patients themselves and reduce medical risks. At the same time, the forum connects academic and industrial circles, so that potential technologies and products can be demonstrated.\r\n\r\nThis forum invites heavyweight speakers from industry, government, academia, and research circles to share with us the changes and evolution of avatar medicine brought by the post-epidemic era. It is hoped that in the near future, through big data, AI, AR/VR/XR or NFT, virtual avatars can be realized in clinical and teaching.",
+        "image": "./images/intro-image.jpg"
+    },
+    "speakers": {
+        "title": "Speakers",
+        "list": [
+            {
+                "name": "Michael C. Lu",
+                "photo": "./images/HG1.jpg",
+                "title": "Dean",
+                "description": "UC Berkeley School of Public Health"
+            },
+            {
+                "name": "Ching-cheng Chuang",
+                "photo": "./images/HG2.jpg",
+                "title": "Legislator",
+                "description": "Legislative Yuan, Republic of China (Taiwan)"
+            },
+            {
+                "name": "Jacqueline Whang-Peng",
+                "photo": "./images/HG3.jpg",
+                "title": "Academician",
+                "description": "Academia Sinica, R.O.C."
+            },
+            {
+                "name": "Ting-I Chan",
+                "photo": "./images/HG4.jpg",
+                "title": "Vice President",
+                "description": "Digital Transformation Association (DTA)"
+            },
+            {
+                "name": "Mi-Hua Tao",
+                "photo": "./images/HP1.jpg",
+                "title": "CEO",
+                "description": "Translational Medicine Division, Biomedical Translation Research Center (BioTReC), Academia Sinica, R.O.C."
+            },
+            {
+                "name": "Shawn Chae",
+                "photo": "./images/HP2.jpg",
+                "title": "CMO",
+                "description": "CLECELL Co., Ltd."
+            },
+            {
+                "name": "Long-Sheng Lu",
+                "photo": "./images/HP3.jpg",
+                "title": "Director",
+                "description": "Center for Cell Therapy , Taipei Medical University Hospital, Taiwan"
+            },
+            {
+                "name": "Ching-Yung Lin",
+                "photo": "./images/HA1.jpg",
+                "title": "CEO",
+                "description": "Graphen Taiwan Inc."
+            },
+            {
+                "name": "Ray Lin",
+                "photo": "./images/HA2.jpg",
+                "title": "CEO",
+                "description": "ARK GROUP Co. Ltd."
+            },
+            {
+                "name": "Jac Hsieh",
+                "photo": "./images/HA3.jpg",
+                "title": "CEO",
+                "description": "FITION INC."
+            }
+        ]
+    },
+    "agenda": {
+        "title": "Agenda",
+        "image": "./images/agendaEN.png"
+    },
+    "documents": {
+        "title": "Documents",
+        "items": [
+            {
+                "titles": "Celebrex Capsule 400mg介紹",
+                "author": "Cancer Kwonledge",
+                "no": "00005"
+            },
+            {
+                "titles": "Giotrif Film-Coated Tablets 20 mg介紹",
+                "author": "Cancer Knowledge",
+                "no": "00004"
+            },
+            {
+                "titles": "UFUR CAPSULE介紹",
+                "author": "Cancer Knowledge",
+                "no": "00003"
+            }
+        ]
+    },
+    "faq": {
+        "title": "FAQ",
+        "items": [
+            {
+                "question": "What is Avatar Medicine?",
+                "answer": "Avatar Medicine is to build virtual or physical twins for patients, and it decreases the risk which patients have to take during their treatments. Also, it breaks the limit of distance and time."
+            },
+            {
+                "question": "What is physical twin?",
+                "answer": "Physical twins usually comes from human biopsy, or they can be a model that are similar to human. They can simulate certain syndromes of human diseases. Through observing their reactions to environmental stimuli, we can do research, diagnoses and offer help in treatment."
+            },
+            {
+                "question": "What is virtual twin?",
+                "answer": "Virtual twins build images and models by analyzing and digitalizing data from human. By operating a predictive program, virtual twins can provide clinical consultation, diagnoses and assistance in treatment."
+            },
+            {
+                "question": "What is Metaverse?",
+                "answer": "Metaverse is a world made of AI, VR, 5G, big data, digital assets and virtual identity. You can work, have fun, shop and play games in it."
+            },
+            {
+                "question": "What is the fee for Avatar Medicine Forum?",
+                "answer": "ZERO. Our Forum is free of charge. It only takes you 2 hours."
+            },
+            {
+                "question": "How to register?",
+                "answer": "Go to the event website, click the link and leave your contact information!"
+            }
+        ]
+    },
+    "registration": {
+        "title": "Registration",
+        "options": [
+            {
+                "link": "https://www.accupass.com/event/2210140955411658495450",
+                "image": "./images/signUpWebsite1.png"
+            },
+            {
+                "link": "https://www.eventbrite.com/e/avatar-medicine-forum-tickets-440741859767",
+                "image": "./images/signUpWebsite2.png"
+            }
+        ],
+        "eventDate": "2024/08/05 00:00:00"
+    },
+    "footer": {
+        "organizer": {
+            "title": "Organizer",
+            "image": "./images/CFBiocn2.png"
+        },
+        "coOrganizer": {
+            "title": "Co-organizer",
+            "image": "./images/2022co.png"
+        },
+        "sponsor": {
+            "title": "Sponsor",
+            "image": "./images/2022spo.png"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "phone": "+886-2-27322701",
+            "address": "3F.-2, No. 56, Lane 258, Ruiguang Rd, Neihu District, Taipei City"
+        }
+    }
+}
