@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(error => console.error('Error loading content:', error));
 
     function populateContent(content) {
-        document.documentElement.style.setProperty('--color-dark-gray', content.color1);
-        document.documentElement.style.setProperty('--color-light-gray', content.color2);
-        document.documentElement.style.setProperty('--color-medium-gray', content.color3);
-        document.documentElement.style.setProperty('--color-off-white', content.color4);
-        document.documentElement.style.setProperty('--color-dark-gray-transparent', content.color5);
+        document.documentElement.style.setProperty('--color-primary', content.color1);
+        document.documentElement.style.setProperty('--color-secondary', content.color2);
+        document.documentElement.style.setProperty('--color-background', content.color3);
+        document.documentElement.style.setProperty('--color-text', content.color4);
+        document.documentElement.style.setProperty('--color-light-slate', content.color5);
         // Set page title
         document.title = content.siteTitle;
         document.querySelector('.logo').textContent = content.siteTitle;
