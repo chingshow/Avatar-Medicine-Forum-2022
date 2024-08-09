@@ -196,11 +196,11 @@
         },
         "coOrganizer": {
             "title": "Co-organizer",
-            "image": "./images/"
+            "image": ""
         },
         "sponsor": {
             "title": "Sponsor",
-            "image": "./images/"
+            "image": ""
         },
         "contact": {
             "title": "Contact Us",
