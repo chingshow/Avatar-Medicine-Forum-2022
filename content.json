@@ -196,11 +196,11 @@
         },
         "coOrganizer": {
             "title": "Co-organizer",
-            "image": "./images/2022co.png"
+            "image": "./images/"
         },
         "sponsor": {
             "title": "Sponsor",
-            "image": "./images/2022spo.png"
+            "image": "./images/"
         },
         "contact": {
             "title": "Contact Us",
